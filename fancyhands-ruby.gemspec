@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'fancyhands-ruby'
-  s.version     = '1.0.3'
-  s.date        = '2016-03-20'
+  s.version     = '1.0.4'
+  s.date        = '2016-08-08'
   s.summary     = "Fancy Hands"
   s.description = "A ruby gem for the Fancy Hands API"
   s.authors     = ["Ted Roden"]
